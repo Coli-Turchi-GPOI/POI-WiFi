@@ -1,13 +1,25 @@
 # POI-WiFi      
 Progetto di GPOI (progettazione di una rete WiFi per il turista)
 
-### sottotilo di test
 
-<p> Obbiettivi </p>
+### OBIETTIVI
 
-<p> Principali deliverable </p>
+### PRINCIPALI DELIVERABLE
 
 ### MILESTONE
+
+### VINCOLI DI DIPENDENZE
+
+### TEMPISTICA PRELIMINARE
+
+### PRINCIPALI RISORSE E LIMITI DI COSTO 
+
+### DOCUMENTI DI RIFERIMENTO E ALLEGATI 
+
+### STRUTTURA ORGANIZZATIVA
+
+### AUTORIZZAZIONE
+
 
 
 
