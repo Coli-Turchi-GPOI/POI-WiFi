@@ -6,7 +6,7 @@ Progetto di GPOI (progettazione di una rete WiFi per il turista)
 
 ### PRINCIPALI DELIVERABLE
 1. Project Management: Pianificazione
-2. Progettazzione:
+2. Progettazzione: interfaccia utente
 3. Progettazzione: 
 Esecuzione: Installazzione e collaudo 
 
