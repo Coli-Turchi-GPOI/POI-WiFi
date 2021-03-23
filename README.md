@@ -7,3 +7,5 @@ Progetto di GPOI (progettazione di una rete WiFi per il turista)
 
 <p> Principali deliverable </p>
 
+### MILESTONE
+
