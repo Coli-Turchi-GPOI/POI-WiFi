@@ -16,12 +16,14 @@ Progetto di GPOI (progettazione di una rete WiFi per il turista)
 - Creazione pagina multimediale avanzata 
 
 ### VINCOLI E DIPENDENZE
+- 
 
 ### TEMPISTICA PRELIMINARE
 - Il progetto inzia il 5 aprile e deve concludersi entro un mese 
 
 ### PRINCIPALI RISORSE E LIMITI DI COSTO 
 - Le risorse principali da utilizzare per la creazione del progetto sono  
+- 
 ### DOCUMENTI DI RIFERIMENTO E ALLEGATI 
 
 ### STRUTTURA ORGANIZZATIVA
