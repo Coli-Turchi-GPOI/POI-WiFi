@@ -15,8 +15,10 @@ Esecuzione: Installazzione e collaudo
 - Creazione pagina multimediale avanzata 
 
 ### VINCOLI DI DIPENDENZE
+- Nuove versioni dell'ambiente di sviluppo
 
 ### TEMPISTICA PRELIMINARE
+-
 
 ### PRINCIPALI RISORSE E LIMITI DI COSTO 
 
