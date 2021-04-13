@@ -32,5 +32,16 @@ Progetto di GPOI (progettazione di una rete WiFi per il turista)
 
 
 
+###AVVIO 
+- acquisizione ambiente sviluppo    
+- 
+###PIANIFICAZIONE 
+- - Progettazione     
+ 
+###REALIZZAZIONE 
+- Interfaccia     
 
+###CHIUSURA 
+- Installazione 
+- Collaudo 
 
