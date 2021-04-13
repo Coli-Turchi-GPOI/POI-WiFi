@@ -32,7 +32,7 @@ Progetto di GPOI (progettazione di una rete WiFi per il turista)
 - Il Team di progetto sarà costituito da altre 2 persone, Gino Bianchi e Luca Verdi
 
 
-
+### WBS:
 ### AVVIO
 - acquisizione ambiente sviluppo    
  
