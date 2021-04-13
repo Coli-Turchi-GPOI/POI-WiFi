@@ -1,6 +1,7 @@
 # POI-WiFi      
 Progetto di GPOI (progettazione di una rete WiFi per il turista)
 
+## PROJECT CHARTER:
 
 ### OBIETTIVI
 - Offrire un applicazione che permetta alle persone di fare un giro turistico per le varie città in un modo differente da quello classico
@@ -32,7 +33,7 @@ Progetto di GPOI (progettazione di una rete WiFi per il turista)
 - Il Team di progetto sarà costituito da altre 2 persone, Gino Bianchi e Luca Verdi
 
 
-### WBS:
+## WBS:
 ### AVVIO
 - acquisizione ambiente sviluppo    
  
