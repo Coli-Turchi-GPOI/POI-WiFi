@@ -16,6 +16,7 @@ Progetto di GPOI (progettazione di una rete WiFi per il turista)
 - Creazione pagina multimediale avanzata 
 
 ### VINCOLI E DIPENDENZE
+- Risorese necessarie
 
 ### TEMPISTICA PRELIMINARE
 - Il progetto inzia il 5 aprile e deve concludersi entro un mese 
@@ -24,16 +25,12 @@ Progetto di GPOI (progettazione di una rete WiFi per il turista)
 - Le risorse principali da utilizzare per la creazione del progetto sono le foto da reperire sui diversi POI della città e l'acquisizione dell'indirizzo IP per la creazione del sito web 
  
 ### DOCUMENTI DI RIFERIMENTO E ALLEGATI 
+- piano azienda
 
 ### STRUTTURA ORGANIZZATIVA
 - Il Project Manager del progetto sarà l'ingegnere Gianni Rossi 
 - Il Team di progetto sarà costituito da altre 2 persone, Gino Bianchi e Luca Verdi
-### AUTORIZZAZIONE
 
-
-
-### 
-###
 
 
 ### AVVIO
