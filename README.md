@@ -14,6 +14,7 @@ Progetto di GPOI (progettazione di una rete WiFi per il turista)
 - Project Management: Pianificazione
 - Progettazzione: Interfaccia utente
 - Progettazzione: Creazione server  
+- Progettazzione: Creazione pagine web
 - Esecuzione: Installazzione e collaudo 
 
 ### MILESTONE
@@ -24,14 +25,14 @@ Progetto di GPOI (progettazione di una rete WiFi per il turista)
 
 ### VINCOLI E DIPENDENZE
 - Creazione di un server 
-- 
+- Creazione di diverse pagine web
 
 ### TEMPISTICA PRELIMINARE
 - Il progetto inzia il 5 aprile e deve concludersi entro due mesi
 
 ### PRINCIPALI RISORSE E LIMITI DI COSTO 
 - Acquisizione spazio su un server
-- Le risorse principali da utilizzare per la creazione del progetto sono le foto da reperire sui diversi POI della città 
+- Foto e video da reperire sui diversi POI della città 
  
 ### DOCUMENTI DI RIFERIMENTO E ALLEGATI 
 - piano azienda
@@ -39,21 +40,3 @@ Progetto di GPOI (progettazione di una rete WiFi per il turista)
 ### STRUTTURA ORGANIZZATIVA
 - Il Project Manager del progetto sarà l'ingegnere Gianni Rossi 
 - Il Team di progetto sarà costituito da altre 2 persone, Gino Bianchi e Luca Verdi
-
-
-
-## WBS:
-
-### AVVIO
-- acquisizione ambiente sviluppo    
- 
-### PIANIFICAZIONE 
-- Progettazione     
- 
-### REALIZZAZIONE 
-- Interfaccia     
-
-### CHIUSURA 
-- Installazione 
-- Collaudo 
-
