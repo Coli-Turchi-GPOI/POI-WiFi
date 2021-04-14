@@ -23,7 +23,7 @@ Progetto di GPOI (progettazione di una rete WiFi per il turista)
 - Creazione di pagina multimediale di base
 - Creazione pagina multimediale avanzata 
 
-### VINCOLI E DIPENDENZE
+### VINCOLI E DIPENDENZE 
 - Creazione di un server 
 - Creazione di diverse pagine web
 
