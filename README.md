@@ -33,9 +33,6 @@ Progetto di GPOI (progettazione di una rete WiFi per il turista)
 ### PRINCIPALI RISORSE E LIMITI DI COSTO 
 - Acquisizione spazio su un server
 - Foto e video da reperire sui diversi POI della città 
- 
-### DOCUMENTI DI RIFERIMENTO E ALLEGATI 
-- piano azienda
 
 ### STRUTTURA ORGANIZZATIVA
 - Il Project Manager del progetto sarà l'ingegnere Gianni Rossi 
