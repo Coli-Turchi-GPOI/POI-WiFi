@@ -1,12 +1,12 @@
 # RBS
 
-### ACQUISIZIONI IMMAGINI E VIDEO : Saranno necessari 2 dipendenti che si recheranno nei POI (punti di interesse) per reperire le immagini e i video necessari, utilizzando la         macchina aziendale.
+## ACQUISIZIONI IMMAGINI E VIDEO : Saranno necessari 2 dipendenti che si recheranno nei POI (punti di interesse) per reperire le immagini e i video necessari, utilizzando la         macchina aziendale.
     COSTI: 11 euro l’ora a dipendente, in più i costi della macchina aziendale
 
-### ACQUISIZIONE AMBIENTE DI SVILUPPO: Sono necessari 3 dipendente che sia in grado di acquisire l'ambiente di sviluppo adatto al progetto cioè un server e dei database che           conterranno foto e video
+## ACQUISIZIONE AMBIENTE DI SVILUPPO: Sono necessari 3 dipendente che sia in grado di acquisire l'ambiente di sviluppo adatto al progetto cioè un server e dei database che           conterranno foto e video
     COSTI: 14 euro l'ora a dipendente
     
-### PROGETTAZIONE: Tre dipendenti dovranno fare il progetto web che sarà poi utilizzato dali clienti nei vari POI
+## PROGETTAZIONE: Tre dipendenti dovranno fare il progetto web che sarà poi utilizzato dali clienti nei vari POI
     COSTI: 16 euro l'ora a dipendente
     
 ### PAGINE WEB: Tre dipendenti dovranno creare tutte le pagine web utili al sito web che dovranno contenere informazioni, foto e video inerenti al luogo visitato dal cliente
