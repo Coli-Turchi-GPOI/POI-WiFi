@@ -16,7 +16,7 @@
     COSTI: 15 euro l'ora a dipendente
     
 ### INSTALLAZIONE E COLLAUDO: Tre dipendenti si recheranno in alcuni POI per verificare che tutto funzioni correttamente e che informazioni, foto e video siano di quel "punto di       interesse", ciò avverrà con automobili aziendali
-    COSTI: 11 euro l'ora a dipendente
+    COSTI: 11 euro l'ora a dipendente, in più i costi della macchina aziendale
     
 ### COSTI TOTALI:
     ( 11*2*2 + 14*3*4 + 16*3*4 + 15*3*6 + 15*3*4 + 11*3*2 ) = ( 44 + 168 + 192 + 270 + 180 + 66 ) = 920 €
