@@ -4,7 +4,7 @@
     COSTI: 11 euro l’ora a dipendente, in più i costi della macchina aziendale
 
 ### ACQUISIZIONE AMBIENTE DI SVILUPPO: Sono necessari 3 dipendente che sia in grado di acquisire l'ambiente di sviluppo adatto al progetto cioè un server e dei database che           conterranno foto e video
-    COSTI: 14 euro l'ora
+    COSTI: 14 euro l'ora a dipendente
     
 ### PROGETTAZIONE: Tre dipendenti dovranno fare il progetto web che sarà poi utilizzato dali clienti nei vari POI
     COSTI: 16 euro l'ora a dipendente
