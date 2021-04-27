@@ -19,7 +19,7 @@
     COSTI: 11 euro l'ora a dipendente, in più i costi della macchina aziendale
     
 ### COSTI TOTALI:
-    ( 11*2*2 + 14*3*4 + 16*3*4 + 15*3*6 + 15*3*4 + 11*3*2 ) = ( 44 + 168 + 192 + 270 + 180 + 66 ) = 920 €
+    4000€
 
 
 
